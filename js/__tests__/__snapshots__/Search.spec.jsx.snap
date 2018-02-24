@@ -5,7 +5,9 @@ exports[`Search renders correctly 1`] = `
   className="search"
 >
   <header>
-    <h1 />
+    <h1>
+      svideo
+    </h1>
     <input
       onChange={[Function]}
       placeholder="Search"
